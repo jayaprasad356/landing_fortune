@@ -78,15 +78,6 @@ $currentdate = date('Y-m-d');
     <link href="vendor/tags/tagmanager.css" rel="stylesheet" />
 
 
-    <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-DWCGVZDCQW"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-DWCGVZDCQW');
-</script>
   </head>
   <body>
     <!-- Loading start -->
