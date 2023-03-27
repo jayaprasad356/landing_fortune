@@ -252,8 +252,7 @@ $currentdate = date('Y-m-d');
                               $date = date('Y-m-d');
                               $sql = "SELECT SUM(amount) AS total_earnings 
                               FROM withdrawals 
-                              WHERE datetime >= DATE_SUB(DATE_FORMAT('$date', '%Y-%m-01'), INTERVAL 1 MONTH)
-                              AND datetime < DATE_FORMAT('$date', '%Y-%m-01')
+                              WHERE status = 1
                               ";
                               $db->sql($sql);
                               $res = $db->getResult();
