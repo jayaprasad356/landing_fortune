@@ -944,6 +944,27 @@ $currentdate = date('Y-m-d');
                     </div>
                   </div>
                   <br>
+                  <div class="row gutters">
+                    <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-12">
+                        <h5 style="font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;">Full Details About the Fortune App</h5>
+                              <iframe width="100%" height="300" src="https://www.youtube.com/embed/C240q_2o2Yg?rel=0" 
+                                title="YouTube video player" 
+                                frameborder="0" 
+                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                                allowfullscreen>
+                              </iframe>
+                    </div>
+                    <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-12">
+                          <h5 style="font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;">How to earn 6% Income?</h5>
+                              <iframe width="100%" height="300" src="https://www.youtube.com/embed/v1lbp-Anoko?rel=0" 
+                                title="YouTube video player" 
+                                frameborder="0" 
+                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                                allowfullscreen>
+                              </iframe>
+                    </div>
+                  </div>
+                  <br>
                   <br>
              </div>
               <h5 class="text-center" style="color:#4878b5;font-weight:bold;font-size:35px;margin-bottom:20px;">Download App from Playstore & Start your earnings.</h5>
