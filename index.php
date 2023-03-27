@@ -884,7 +884,7 @@ $currentdate = date('Y-m-d');
                   <div class="row gutters">
                     <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-12">
                         <h5 style="font-family:Monospace;">How To Signup?</h5>
-                              <iframe width="100%" height="300" src="https://www.youtube.com/embed/SIQOM_ALnDI?rel=0" 
+                              <iframe width="100%" height="300" src="https://www.youtube.com/embed/Y4wP0uWUO3M?rel=0" 
                                 title="YouTube video player" 
                                 frameborder="0" 
                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -893,7 +893,7 @@ $currentdate = date('Y-m-d');
                     </div>
                     <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-12">
                           <h5 style="font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;">How to Work In Regular Task?</h5>
-                              <iframe width="100%" height="300" src="https://www.youtube.com/embed/SIQOM_ALnDI?rel=0" 
+                              <iframe width="100%" height="300" src="https://www.youtube.com/embed/Y4wP0uWUO3M?rel=0" 
                                 title="YouTube video player" 
                                 frameborder="0" 
                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -906,7 +906,7 @@ $currentdate = date('Y-m-d');
                   <div class="row gutters">
                     <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-12">
                         <h5 style="font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;">How To Work In Champion Task?</h5>
-                              <iframe width="100%" height="300" src="https://www.youtube.com/embed/1yYFCd-EEUE?rel=0" 
+                              <iframe width="100%" height="300" src="https://www.youtube.com/embed/70pomfknWAc?rel=0" 
                                 title="YouTube video player" 
                                 frameborder="0" 
                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -915,7 +915,7 @@ $currentdate = date('Y-m-d');
                     </div>
                     <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-12">
                           <h5 style="font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;">How To Withdraw Earning?</h5>
-                              <iframe width="100%" height="300" src="https://www.youtube.com/embed/Afcys2I0OO0?rel=0" 
+                              <iframe width="100%" height="300" src="https://www.youtube.com/embed/IddTqIKhqI4?rel=0" 
                                 title="YouTube video player" 
                                 frameborder="0" 
                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -927,7 +927,7 @@ $currentdate = date('Y-m-d');
                   <div class="row gutters">
                     <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-12">
                         <h5 style="font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;">How To Refer & Earn?</h5>
-                              <iframe width="100%" height="300" src="https://www.youtube.com/embed/t0enG6usDf0?rel=0" 
+                              <iframe width="100%" height="300" src="https://www.youtube.com/embed/1hoDvqeC9Pc?rel=0" 
                                 title="YouTube video player" 
                                 frameborder="0" 
                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -936,7 +936,7 @@ $currentdate = date('Y-m-d');
                     </div>
                     <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-12">
                           <h5 style="font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;">Users Chat Support?</h5>
-                              <iframe width="100%" height="300" src="https://www.youtube.com/embed/z5ZRhYqGRB8?rel=0" 
+                              <iframe width="100%" height="300" src="https://www.youtube.com/embed/IddTqIKhqI4?rel=0" 
                                 title="YouTube video player" 
                                 frameborder="0" 
                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
