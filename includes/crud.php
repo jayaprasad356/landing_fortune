@@ -17,23 +17,14 @@ class Database
      * Database class
      */
 
-    // private $db_host = "localhost";
-    // private $db_user = "u743445510_abcd";
-    // private $db_pass = "Abcd@2022"; 
-    // private $db_name = "u743445510_abcd"; 
 
 
-    //LIve
+
+    //demo
     private $db_host = "localhost";
-    private $db_user = "u152146582_fa";
-    private $db_pass = "Fapp@2022"; 
-    private $db_name = "u152146582_fa"; 
-
-
-    // private $db_host = "localhost";
-    // private $db_user = "u117947056_abcd";
-    // private $db_pass = "Abcd@2022"; 
-    // private $db_name = "u117947056_abcd"; 
+    private $db_user = "u743445510_demofortune";
+    private $db_pass = "Fortune@2023"; 
+    private $db_name = "u743445510_demofortune"; 
 
 
     /*
