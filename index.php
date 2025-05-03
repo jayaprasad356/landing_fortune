@@ -990,7 +990,7 @@ $currentdate = date('Y-m-d');
                               $sql = "SELECT * FROM `app_settings`";
                               $db->sql($sql);
                               $res = $db->getResult();
-                              $app = $res[0]['file_upload'];
+                              $app = $res[0]['link'];
                               echo $app;?>">
                                           <img src="img/playstore-1.png" class="img-fluid" alt=""></a>
                   </div>
