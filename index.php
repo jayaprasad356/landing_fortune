@@ -980,11 +980,18 @@ $currentdate = date('Y-m-d');
                   <br>
                   <br>
              </div>
+
               <h5 class="text-center" style="color:#4878b5;font-weight:bold;font-size:35px;margin-bottom:20px;">Download App from Playstore & Start your earnings.</h5>
               <!-- Row start -->
               <div class="row gutters">
                  <div class="col-xl-12 col-lg-12 col-md-12 col-sm-6 col-12 text-center">
-                          <a href="https://play.google.com/store/apps/details?id=com.app.fortuneapp">
+                          <a href="             <?php
+                            
+                              $sql = "SELECT * FROM `app_settings`";
+                              $db->sql($sql);
+                              $res = $db->getResult();
+                              $app = $res[0]['file_upload'];
+                              echo $app;?>">
                                           <img src="img/playstore-1.png" class="img-fluid" alt=""></a>
                   </div>
               </div>
