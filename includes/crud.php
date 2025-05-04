@@ -1,7 +1,7 @@
 <?php
 
 
-define('DOMAIN_URL', 'https://dashboard.fortuneapp.in/'); /* chnage to your domain here - don't forget to add forward slash at the end of the URL like this "/" */
+define('DOMAIN_URL', 'https://fortuneapp.in/'); /* chnage to your domain here - don't forget to add forward slash at the end of the URL like this "/" */
 define('ALLOW_MODIFICATION', 1);
 define('JWT_SECRET_KEY', '12345678'); /* chnage to your secret key here set it to anything you like*/
 define('COST_PER_CODE', 0.17);
@@ -22,10 +22,9 @@ class Database
 
     //demo
     private $db_host = "localhost";
-    private $db_user = "u743445510_demofortune";
-    private $db_pass = "Fortune@2023"; 
-    private $db_name = "u743445510_demofortune"; 
-
+    private $db_user = "u481208358_fortune";
+    private $db_pass = "Fortune@011"; 
+    private $db_name = "u481208358_fortune"; 
 
     /*
      * Extra variables that are required by other function such as boolean con variable
